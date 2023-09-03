@@ -29,10 +29,10 @@ const siteProps = {
   email: "Dipanjali.Gubreley@studentambassadors.com",
   gitHub: "Dipanjali1",
   instagram: "",
-  linkedIn: "Dipanjali",
+  linkedIn: "Dipanjali .",
   medium: "",
   twitter: "Dipanjali180302",
-  youTube: "Dipanjali Gubreley",
+  youTube: "dipanjaligubreley7815",
 };
 
 const primaryColor = "#4E567E";
