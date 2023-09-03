@@ -29,7 +29,7 @@ const siteProps = {
   email: "Dipanjali.Gubreley@studentambassadors.com",
   gitHub: "Dipanjali1",
   instagram: "",
-  linkedIn: "Dipanjali .",
+  linkedIn: "dipanjali-gubreley",
   medium: "",
   twitter: "Dipanjali180302",
   youTube: "dipanjaligubreley7815",
